@@ -8,7 +8,9 @@
  
  ✔ Programação backend
         
+<div align="center">
 <h2>Contatos</h2>
+</div>
 
 <div align="center">
   <a href="mailto:viniciusalmada9@gmail.com" target="_blank">
